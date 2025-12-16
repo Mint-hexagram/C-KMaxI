@@ -1,13 +1,13 @@
 # README
 
 ## 1. Data
-| Filename       | Dataset Description                                                                 | Data Volume | Additional Parameters                          |
-|----------------|-------------------------------------------------------------------------------------|-------------|------------------------------------------------|
-| Stock.txt      | Bitcoin Stock Price Dataset                                                        | 9,028,997   | -                                              |
-| Power.txt      | UK Electricity Dataset                                                            | 246,284     | -                                              |
-| Genome.txt     | Scoring sequences derived from the *Haemophilus influenzae* genome                 | 1,837,622   | -                                              |
-| Uniform.txt    | Generated dataset following a uniform distribution                                | 1,000,000   | Uniform distribution with Min=-1000, Max=1000   |
-| Normal.txt     | Generated dataset following a normal distribution                                 | 1,000,000   | Normal distribution with Mean=0, Std=1000       |
+| Filename       | Dataset Description                                                                 | Data Volume | Additional Parameters                          | Dataset Source                                                                 |
+|----------------|-------------------------------------------------------------------------------------|-------------|------------------------------------------------|--------------------------------------------------------------------------------|
+| Stock.txt      | Bitcoin Stock Price Dataset                                                        | 9,028,997   | -                                              | https://www.alphavantage.co/                                                   |
+| Power.txt      | UK Electricity Dataset                                                            | 246,284     | -                                              | https://www.kaggle.com/datasets/thedevastator/gb-electrical-grid-half-hourly-data-2008-present |
+| Genome.txt     | Scoring sequences derived from the *Haemophilus influenzae* genome                 | 1,837,622   | -                                              | https://www.ncbi.nlm.nih.gov/Traces/wgs/JAMLFG01                               |
+| Uniform.txt    | Generated dataset following a uniform distribution                                | 1,000,000   | Uniform distribution with Min=-1000, Max=1000   | Generated dataset                                  |
+| Normal.txt     | Generated dataset following a normal distribution                                 | 1,000,000   | Normal distribution with Mean=0, Std=1000       | Generated dataset                                     |
 
 
 ## 2. Algorithm Code
