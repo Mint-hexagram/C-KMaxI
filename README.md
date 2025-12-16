@@ -55,7 +55,3 @@ These scripts generate results of the five algorithms under different parameters
 - `Invoke_Memory_Tournament.py`
 - `Invoke_Memory_Candidate_RuzzoTompa.py`
 - `Invoke_Memory_Tournament.py`
-
-### Note
-- All "Throughput" uses the standard spelling for the experimental metric (throughput).
-- All scripts output experimental results to txt files with corresponding names (e.g., `Invoke_Overall_Partition_results.txt`), which are automatically generated in the same directory after running the scripts.
